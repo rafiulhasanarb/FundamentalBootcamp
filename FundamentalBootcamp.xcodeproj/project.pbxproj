@@ -1,0 +1,95 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXFileReference section */
+		B16E9D612D64932F00C58D3A /* Structs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structs.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B16E9D622D64934A00C58D3A /* Exercises.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Exercises.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B1C6D1A62D6243C900C0AFBC /* Variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Variables.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B1C6D1A72D6248B500C0AFBC /* Operators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Operators.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B1C6D1A82D624CB500C0AFBC /* StringInterpolation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = StringInterpolation.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B1C6D1A92D62537D00C0AFBC /* ControlFlow.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ControlFlow.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B1C6D1AA2D62F57A00C0AFBC /* ArrayList.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ArrayList.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B1C6D1AB2D62FBA200C0AFBC /* Dictionaries.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Dictionaries.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B1C6D1AC2D63001C00C0AFBC /* Loops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Loops.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B1C6D1AD2D633F0000C0AFBC /* Functions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Functions.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B1C6D1AE2D634ED300C0AFBC /* Optionals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Optionals.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		B1C6D19E2D62439C00C0AFBC = {
+			isa = PBXGroup;
+			children = (
+				B16E9D622D64934A00C58D3A /* Exercises.playground */,
+				B16E9D612D64932F00C58D3A /* Structs.playground */,
+				B1C6D1AE2D634ED300C0AFBC /* Optionals.playground */,
+				B1C6D1AD2D633F0000C0AFBC /* Functions.playground */,
+				B1C6D1AC2D63001C00C0AFBC /* Loops.playground */,
+				B1C6D1AB2D62FBA200C0AFBC /* Dictionaries.playground */,
+				B1C6D1AA2D62F57A00C0AFBC /* ArrayList.playground */,
+				B1C6D1A92D62537D00C0AFBC /* ControlFlow.playground */,
+				B1C6D1A82D624CB500C0AFBC /* StringInterpolation.playground */,
+				B1C6D1A72D6248B500C0AFBC /* Operators.playground */,
+				B1C6D1A62D6243C900C0AFBC /* Variables.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		B1C6D19F2D62439C00C0AFBC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1620;
+			};
+			buildConfigurationList = B1C6D1A22D62439C00C0AFBC /* Build configuration list for PBXProject "FundamentalBootcamp" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B1C6D19E2D62439C00C0AFBC;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		B1C6D1A32D62439C00C0AFBC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		B1C6D1A42D62439C00C0AFBC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B1C6D1A22D62439C00C0AFBC /* Build configuration list for PBXProject "FundamentalBootcamp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B1C6D1A32D62439C00C0AFBC /* Debug */,
+				B1C6D1A42D62439C00C0AFBC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B1C6D19F2D62439C00C0AFBC /* Project object */;
+}
