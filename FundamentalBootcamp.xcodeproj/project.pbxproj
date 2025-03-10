@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		B136F2362D7EC71400E72DF3 /* highestAndLowest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = highestAndLowest.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B136F2372D7EDE4800E72DF3 /* BinarySearchTree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BinarySearchTree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B16E9D612D64932F00C58D3A /* Structs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structs.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B16E9D622D64934A00C58D3A /* Exercises.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Exercises.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B1C6D1A62D6243C900C0AFBC /* Variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Variables.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -24,6 +26,8 @@
 		B1C6D19E2D62439C00C0AFBC = {
 			isa = PBXGroup;
 			children = (
+				B136F2372D7EDE4800E72DF3 /* BinarySearchTree.playground */,
+				B136F2362D7EC71400E72DF3 /* highestAndLowest.playground */,
 				B16E9D622D64934A00C58D3A /* Exercises.playground */,
 				B16E9D612D64932F00C58D3A /* Structs.playground */,
 				B1C6D1AE2D634ED300C0AFBC /* Optionals.playground */,
