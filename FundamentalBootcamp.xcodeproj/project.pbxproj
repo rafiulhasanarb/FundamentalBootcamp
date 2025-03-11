@@ -10,6 +10,8 @@
 		B136F2362D7EC71400E72DF3 /* highestAndLowest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = highestAndLowest.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B136F2372D7EDE4800E72DF3 /* BinarySearchTree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BinarySearchTree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B136F2382D7F3CC300E72DF3 /* ArrayMostCommonElement.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ArrayMostCommonElement.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B136F2392D80057C00E72DF3 /* RemoveDuplicate.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RemoveDuplicate.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B136F23A2D80098B00E72DF3 /* SimpleFunction.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SimpleFunction.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B16E9D612D64932F00C58D3A /* Structs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structs.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B16E9D622D64934A00C58D3A /* Exercises.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Exercises.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B1C6D1A62D6243C900C0AFBC /* Variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Variables.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -27,6 +29,8 @@
 		B1C6D19E2D62439C00C0AFBC = {
 			isa = PBXGroup;
 			children = (
+				B136F23A2D80098B00E72DF3 /* SimpleFunction.playground */,
+				B136F2392D80057C00E72DF3 /* RemoveDuplicate.playground */,
 				B136F2382D7F3CC300E72DF3 /* ArrayMostCommonElement.playground */,
 				B136F2372D7EDE4800E72DF3 /* BinarySearchTree.playground */,
 				B136F2362D7EC71400E72DF3 /* highestAndLowest.playground */,
