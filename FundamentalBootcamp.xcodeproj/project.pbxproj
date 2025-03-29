@@ -14,6 +14,10 @@
 		B136F23A2D80098B00E72DF3 /* SimpleFunction.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SimpleFunction.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B16E9D612D64932F00C58D3A /* Structs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structs.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B16E9D622D64934A00C58D3A /* Exercises.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Exercises.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B1AD305E2D983D8F0075DE79 /* Stacks.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Stacks.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B1AD305F2D9840510075DE79 /* Queues.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Queues.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B1AD30602D98413F0075DE79 /* LinkedList.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LinkedList.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B1AD30612D984D4C0075DE79 /* learn Data Structures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "learn Data Structures.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B1AED2972D82AF7700C4F2DC /* BasicBootcamp.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BasicBootcamp.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B1AFD9232D8B214E009E918E /* FactoryPattern.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FactoryPattern.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B1BF20F52D8891A2002082A9 /* LoadMoreSwiftUI.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LoadMoreSwiftUI.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -33,6 +37,10 @@
 		B1C6D19E2D62439C00C0AFBC = {
 			isa = PBXGroup;
 			children = (
+				B1AD30612D984D4C0075DE79 /* learn Data Structures.playground */,
+				B1AD30602D98413F0075DE79 /* LinkedList.playground */,
+				B1AD305F2D9840510075DE79 /* Queues.playground */,
+				B1AD305E2D983D8F0075DE79 /* Stacks.playground */,
 				B1AFD9232D8B214E009E918E /* FactoryPattern.playground */,
 				B1BF20F52D8891A2002082A9 /* LoadMoreSwiftUI.playground */,
 				B1FDCABB2D847503007F6356 /* CombineExample.playground */,
