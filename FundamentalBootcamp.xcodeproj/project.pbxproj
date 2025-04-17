@@ -31,6 +31,7 @@
 		B1C6D1AC2D63001C00C0AFBC /* Loops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Loops.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B1C6D1AD2D633F0000C0AFBC /* Functions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Functions.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B1C6D1AE2D634ED300C0AFBC /* Optionals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Optionals.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B1E7437A2DB14428008A22FD /* DSA.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DSA.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B1FDCABB2D847503007F6356 /* CombineExample.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CombineExample.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -38,6 +39,7 @@
 		B1C6D19E2D62439C00C0AFBC = {
 			isa = PBXGroup;
 			children = (
+				B1E7437A2DB14428008A22FD /* DSA.playground */,
 				B1AD30622D99BAB70075DE79 /* Higher Order functions.playground */,
 				B1AD30612D984D4C0075DE79 /* learn Data Structures.playground */,
 				B1AD30602D98413F0075DE79 /* LinkedList.playground */,
